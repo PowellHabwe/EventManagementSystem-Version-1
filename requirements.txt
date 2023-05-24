@@ -24,4 +24,3 @@ stripe
 sqlparse==0.2.4
 whitenoise==6.2.0
 xhtml2pdf==0.2.8
-
